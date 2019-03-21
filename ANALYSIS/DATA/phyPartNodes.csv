@@ -1,0 +1,17 @@
+taxon,node,nodeCalibGrep
+01. Quercus,3,Quercus
+02. subg. Quercus,4,Quercus_rubra|Quercus_alba
+03. subg. Cerris,186,Quercus_gilva|Quercus_senescens
+04. sect. Quercus,8,Quercus_durata|Quercus_arizonica
+09. sect. Lobatae,112,Quercus_parvula|Quercus_radiata
+06. sect. Virentes,100,Quercus_fusiformis|Quercus_virginiana
+05. sect. Protobalanus,107,Quercus_cedrosensis|Quercus_chrysolepis
+13. sect. Cerris,213,Quercus_chenii|Quercus_trojana
+14. sect. Ilex,188,Quercus_franchetii|Quercus_ilex
+15. sect. Cyclobalanopsis,226,Quercus_gilva|Quercus_bella
+10. Laurifoliae,159,Quercus_ilicifolia|Quercus_incana
+11. Rubrae,174,Quercus_coccinea|Quercus_acerifolia
+12. Mexican red oaks,116,Quercus_affinis|Quercus_radiata
+08. Mexican white oaks,12,Quercus_germana|Quercus_arizonica
+07. Roburoid white oaks,63,Quercus_dentata|Quercus_faginea
+00. sect. Ponticae,NA,Quercus_pontica|Quercus_sadleriana

@@ -1,0 +1,23 @@
+  loading Assembly: oaksall_v1_2
+  from saved path: ~/Documents/analyses/RAD.OAKS.full.2018.05.15/oaksall_v1_2.json
+  establishing parallel connection:
+  host compute node: [16 cores] on andrew-linux-desktop
+
+  Step 6: Clustering at 0.85 similarity across 795 samples
+  [####################] 100%  concat/shuffle input  | 0:07:06
+  [####################] 100%  clustering across     | 20:35:27
+  [####################] 100%  building clusters     | 0:05:06
+  [####################] 100%  aligning clusters     | 19:26:29
+  [####################] 100%  database indels       | 0:32:27
+  [####################] 100%  indexing clusters     | 3:47:20
+  [####################] 100%  building database     | 54 days, 8:55:42   ^N[B^[[B^[[B
+
+  Step 7: Filter and write output files for 795 Samples
+  [####################] 100%  filtering loci        | 0:31:07
+  [####################] 100%  building loci/stats   | 0:29:49
+  [####################] 100%  building arrays       | 0:18:30
+  [####################] 100%  writing outfiles      | 0:32:49
+  Outfiles written to: ~/Documents/analyses/RAD.OAKS.full.2018.05.15/oaksall_v1_2_outfiles
+
+andrew@andrew-linux-desktop:~/Documents/analyses/RAD.OAKS.full.2018.05.15$ du
+d

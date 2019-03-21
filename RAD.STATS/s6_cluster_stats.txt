@@ -1,0 +1,22 @@
+vsearch v2.0.3_linux_x86_64, 62.8GB RAM, 16 cores
+/home/andrew/anaconda2/lib/python2.7/site-packages/bin/vsearch-linux-x86_64 -cluster_smallmem /home/andrew/Documents/analyses/RAD.OAKS.full.2018.05.15/oaksall_v1_2_across/oaksall_v1_2_catshuf.tmp -strand plus -query_cov 0.75 -minsl 0.5 -id 0.85 -userout /home/andrew/Documents/analyses/RAD.OAKS.full.2018.05.15/oaksall_v1_2_across/oaksall_v1_2.utemp -notmatched /home/andrew/Documents/analyses/RAD.OAKS.full.2018.05.15/oaksall_v1_2_across/oaksall_v1_2.htemp -userfields query+target+qstrand -maxaccepts 1 -maxrejects 0 -fasta_width 0 -threads 10 -fulldp -usersort -log /home/andrew/Documents/analyses/RAD.OAKS.full.2018.05.15/oaksall_v1_2_across/s6_cluster_stats.txt 
+Started  Tue May 22 21:12:51 20183801222749 nt in 42133765 seqs, min 35, max 107, avg 90
+
+
+      Alphabet  nt
+    Word width  8
+     Word ones  8
+        Spaced  No
+        Hashed  No
+         Coded  No
+       Stepped  No
+         Slots  65536 (65.5k)
+       DBAccel  100%
+
+Clusters: 3865136 Size min 1, max 935, avg 10.9
+Singletons: 2989922, 7.1% of seqs, 77.4% of clusters
+
+
+Finished Wed May 23 17:48:18 2018
+Elapsed time 1235:27
+Max memory 16.9GB

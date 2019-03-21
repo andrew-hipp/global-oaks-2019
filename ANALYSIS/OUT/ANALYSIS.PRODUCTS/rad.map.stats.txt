@@ -1,0 +1,25 @@
+RAD mapping stats
+----------------
+Number of RADs mapping at least once: 39860
+Number of RADs mapping uniquely to one of the 12 chromosomes: 19468
+By chrom totals: radsTotal : 1,622.333 +/- 575.3915
+By chrom totals: radsInGenes : 508.25 +/- 190.1823
+By chrom totals: radsNotInGenes : 1,114.083 +/- 456.2181
+Unique genes total: 3443
+By chrom percent genes: 0.317 +/- 0.081
+Correlation between Albae and Dumosae introgression by locus: r = -0.0286 , p = 0.4878 , df = 588
+Effect of presence in gene on Albae introgression: F = 0.6494 ( 1,366 ) P = 0.4209
+Effect of presence in gene on Dumosae introgression: F = 0.0377 ( 1,415 ) P = 0.8461
+total loci with lnL diff >= 2, at least one test: 325
+total loci with lnL diff >= 2, both tests: 159
+total loci with lnL diff >= 2, Dumosae: 290
+total loci with lnL diff >= 2, Albae: 194
+Effect of presence in gene on quartet similarity to consensus tree: F= 0.0495 ( 1,2542 ) P = 0.8239
+Effect of locus taxon sampling on quartet similarity: r2= 0.0015 B1 = 2e-04 P = 0.0485
+Phyparts by node, concordant loci: 123.9333 +/- 178.8792 -- range =  2-701
+Phyparts by node, conflicting loci: 303.3333 +/- 183.9832 -- range =  49-676
+Phyparts by node, total loci: 427.2667 +/- 273.6741 -- range =  107-1055
+Phyparts by node, proportion loci concordant: 0.2395 +/- 0.2523 -- range =  0.0075-0.6879
+Correlation between proportion of loci concordant and crown age: r = 0.4996 , p = 0.0579
+Correlation between proportion of loci concordant and number of descendents: r = 0.3251 , p = 0.2371
+Why not do multiple regression? expected correlation between descendants and crown age: r = 0.6623 , p = 0.0052

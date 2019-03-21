@@ -1,0 +1,8 @@
+All-tips tree stats
+-------------------
+Total Quercus spp: 246
+Total Quercus with 1 sample: 99
+Total Quercus with >1 sample: 147
+Mean number of samples for Quercus with > 1 sample: 3.54 +/- 2.72 (sd)
+Total Quercus with TDI > 0: 50
+Total Quercus with TDI 10 or more: 13

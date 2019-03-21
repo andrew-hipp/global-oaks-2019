@@ -1,0 +1,93 @@
+
+ -------------------------------------------------------------
+  ipyrad [v.0.7.24]
+  Interactive assembly and analysis of RAD-seq data
+ -------------------------------------------------------------
+  Begin run: 2018-05-15 10:48
+  Using args {'preview': False, 'force': False, 'threads': 2, 'results': True, 'quiet': False, 'merge': None, 'ipcluster': None, 'cores': 0, 'params': 'params-oaksall_v1.txt', 'branch': None, 'steps': '1', 'debug': False, 'new': None, 'download': None, 'MPI': False}
+  Platform info: ('Linux', 'andrew-HP-Z820-Workstation', '4.4.0-111-generic', '#134~14.04.1-Ubuntu SMP Mon Jan 15 15:39:56 UTC 2018', 'x86_64')
+ -------------------------------------------------------------
+  ipyrad [v.0.7.24]
+  Interactive assembly and analysis of RAD-seq data
+ -------------------------------------------------------------
+  Begin run: 2018-05-15 11:20
+  Using args {'preview': False, 'force': False, 'threads': 2, 'results': True, 'quiet': False, 'merge': None, 'ipcluster': None, 'cores': 0, 'params': 'params-oaksall_v1.txt', 'branch': None, 'steps': '234567', 'debug': False, 'new': None, 'download': None, 'MPI': False}
+  Platform info: ('Linux', 'andrew-HP-Z820-Workstation', '4.4.0-111-generic', '#134~14.04.1-Ubuntu SMP Mon Jan 15 15:39:56 UTC 2018', 'x86_64')2018-05-18 06:51:03,067 	pid=4050 	[assembly.py]	ERROR 	IOError(Can't prepare for writing data (File write failed: time = fri may 18 06:50:45 2018
+, filename = '/home/andrew/documents/analyses/rad.oaks.full.2018.05.15/oaksall_v1_across/og-6.fq.barcodestripped.tmp.h5', file descriptor = 59, errno = 28, error message = 'no space left on device', buf = 0x7f83077ba7e0, total write size = 379884992, bytes this sub-write = 379884992, bytes actually written = 18446744073709551615, offset = 1399779328))
+
+ -------------------------------------------------------------
+  ipyrad [v.0.7.24]
+  Interactive assembly and analysis of RAD-seq data
+ -------------------------------------------------------------
+  Begin run: 2018-05-18 15:08
+  Using args {'preview': False, 'force': False, 'threads': 2, 'results': False, 'quiet': False, 'merge': None, 'ipcluster': None, 'cores': 0, 'params': 'oaksall_v1', 'branch': ['oaksall_v1_2', '-', 'PM-304', 'PM_304', 'PM-286', 'DM70', 'PM-284', 'AGR30.fq.barcodeStripped', 'PM-229', 'PM_229', 'PM-255', 'PM-308'], 'steps': '', 'debug': False, 'new': None, 'download': None, 'MPI': False}
+  Platform info: ('Linux', 'andrew-HP-Z820-Workstation', '4.4.0-111-generic', '#134~14.04.1-Ubuntu SMP Mon Jan 15 15:39:56 UTC 2018', 'x86_64')
+ -------------------------------------------------------------
+  ipyrad [v.0.7.24]
+  Interactive assembly and analysis of RAD-seq data
+ -------------------------------------------------------------
+  Begin run: 2018-05-18 15:09
+  Using args {'preview': False, 'force': False, 'threads': 2, 'results': False, 'quiet': False, 'merge': None, 'ipcluster': None, 'cores': 0, 'params': 'params-oaksall_v1.txt', 'branch': ['oaksall_v1_2', '-', 'PM-304', 'PM_304', 'PM-286', 'DM70', 'PM-284', 'AGR30.fq.barcodeStripped', 'PM-229', 'PM_229', 'PM-255', 'PM-308'], 'steps': '', 'debug': False, 'new': None, 'download': None, 'MPI': False}
+  Platform info: ('Linux', 'andrew-HP-Z820-Workstation', '4.4.0-111-generic', '#134~14.04.1-Ubuntu SMP Mon Jan 15 15:39:56 UTC 2018', 'x86_64')
+ -------------------------------------------------------------
+  ipyrad [v.0.7.24]
+  Interactive assembly and analysis of RAD-seq data
+ -------------------------------------------------------------
+  Begin run: 2018-05-18 15:12
+  Using args {'preview': False, 'force': False, 'threads': 2, 'results': False, 'quiet': False, 'merge': None, 'ipcluster': None, 'cores': 0, 'params': 'params-oaksall_v1_2.txt', 'branch': None, 'steps': '67', 'debug': False, 'new': None, 'download': None, 'MPI': False}
+  Platform info: ('Linux', 'andrew-HP-Z820-Workstation', '4.4.0-111-generic', '#134~14.04.1-Ubuntu SMP Mon Jan 15 15:39:56 UTC 2018', 'x86_64')2018-05-18 15:12:27,571 	pid=2526 	[assembly.py]	ERROR 	IOError([Errno 2] No such file or directory: '/home/andrew/Documents/analyses/RAD.OAKS.full.2018.05.15/oaksall_v1_2_across/oaksall_v1_2.utemp.sort')
+
+ -------------------------------------------------------------
+  ipyrad [v.0.7.24]
+  Interactive assembly and analysis of RAD-seq data
+ -------------------------------------------------------------
+  Begin run: 2018-05-18 15:12
+  Using args {'preview': False, 'force': False, 'threads': 2, 'results': False, 'quiet': False, 'merge': None, 'ipcluster': None, 'cores': 0, 'params': 'params-oaksall_v1_2.txt', 'branch': None, 'steps': '567', 'debug': False, 'new': None, 'download': None, 'MPI': False}
+  Platform info: ('Linux', 'andrew-HP-Z820-Workstation', '4.4.0-111-generic', '#134~14.04.1-Ubuntu SMP Mon Jan 15 15:39:56 UTC 2018', 'x86_64')2018-05-18 15:13:11,479 	pid=2900 	[assembly.py]	ERROR 	IOError([Errno 2] No such file or directory: '/home/andrew/Documents/analyses/RAD.OAKS.full.2018.05.15/oaksall_v1_2_across/oaksall_v1_2.utemp.sort')
+
+ -------------------------------------------------------------
+  ipyrad [v.0.7.24]
+  Interactive assembly and analysis of RAD-seq data
+ -------------------------------------------------------------
+  Begin run: 2018-05-18 15:13
+  Using args {'preview': False, 'force': True, 'threads': 2, 'results': False, 'quiet': False, 'merge': None, 'ipcluster': None, 'cores': 0, 'params': 'params-oaksall_v1_2.txt', 'branch': None, 'steps': '67', 'debug': False, 'new': None, 'download': None, 'MPI': False}
+  Platform info: ('Linux', 'andrew-HP-Z820-Workstation', '4.4.0-111-generic', '#134~14.04.1-Ubuntu SMP Mon Jan 15 15:39:56 UTC 2018', 'x86_64')2018-05-20 13:42:39,856 	pid=3274 	[assembly.py]	ERROR 	IOError(Can't prepare for writing data (File write failed: time = sun may 20 13:42:20 2018
+, filename = '/home/andrew/documents/analyses/rad.oaks.full.2018.05.15/oaksall_v1_2_across/oak-mor-001204.tmp.h5', file descriptor = 59, errno = 28, error message = 'no space left on device', buf = 0x7f929097c7e0, total write size = 1719020416, bytes this sub-write = 1719020416, bytes actually written = 18446744073709551615, offset = 59416576))
+
+ -------------------------------------------------------------
+  ipyrad [v.0.7.24]
+  Interactive assembly and analysis of RAD-seq data
+ -------------------------------------------------------------
+  Begin run: 2018-05-20 17:35
+  Using args {'preview': False, 'force': False, 'threads': 2, 'results': False, 'quiet': False, 'merge': None, 'ipcluster': None, 'cores': 0, 'params': 'params-oaksall_v1_2.txt', 'branch': None, 'steps': '67', 'debug': False, 'new': None, 'download': None, 'MPI': False}
+  Platform info: ('Linux', 'andrew-HP-Z820-Workstation', '4.4.0-111-generic', '#134~14.04.1-Ubuntu SMP Mon Jan 15 15:39:56 UTC 2018', 'x86_64')2018-05-20 20:19:23,607 	pid=31267 	[assembly.py]	ERROR 	IOError(Can't prepare for writing data (File write failed: time = sun may 20 20:19:20 2018
+, filename = '/home/andrew/documents/analyses/rad.oaks.full.2018.05.15/oaksall_v1_2_across/oak-mor-698.fq.barcodestripped.tmp.h5', file descriptor = 59, errno = 28, error message = 'no space left on device', buf = 0x7fbdca3707e0, total write size = 424024960, bytes this sub-write = 424024960, bytes actually written = 18446744073709551615, offset = 1354412032))
+
+ -------------------------------------------------------------
+  ipyrad [v.0.7.24]
+  Interactive assembly and analysis of RAD-seq data
+ -------------------------------------------------------------
+  Begin run: 2018-05-21 22:15
+  Using args {'preview': False, 'force': False, 'threads': 2, 'results': False, 'quiet': False, 'merge': None, 'ipcluster': None, 'cores': 0, 'params': 'params-oaksall_v1_2.txt', 'branch': None, 'steps': '67', 'debug': False, 'new': None, 'download': None, 'MPI': False}
+  Platform info: ('Linux', 'andrew-linux-desktop', '4.13.0-41-generic', '#46~16.04.1-Ubuntu SMP Thu May 3 10:06:43 UTC 2018', 'x86_64')
+ -------------------------------------------------------------
+  ipyrad [v.0.7.24]
+  Interactive assembly and analysis of RAD-seq data
+ -------------------------------------------------------------
+  Begin run: 2018-05-22 05:29
+  Using args {'preview': False, 'force': False, 'threads': 2, 'results': False, 'quiet': False, 'merge': None, 'ipcluster': None, 'cores': 0, 'params': 'params-oaksall_v1_2.txt', 'branch': None, 'steps': '67', 'debug': False, 'new': None, 'download': None, 'MPI': False}
+  Platform info: ('Linux', 'andrew-linux-desktop', '4.13.0-41-generic', '#46~16.04.1-Ubuntu SMP Thu May 3 10:06:43 UTC 2018', 'x86_64')
+ -------------------------------------------------------------
+  ipyrad [v.0.7.24]
+  Interactive assembly and analysis of RAD-seq data
+ -------------------------------------------------------------
+  Begin run: 2018-05-22 21:05
+  Using args {'preview': False, 'force': True, 'threads': 2, 'results': False, 'quiet': False, 'merge': None, 'ipcluster': None, 'cores': 0, 'params': 'params-oaksall_v1_2.txt', 'branch': None, 'steps': '67', 'debug': False, 'new': None, 'download': None, 'MPI': False}
+  Platform info: ('Linux', 'andrew-linux-desktop', '4.13.0-41-generic', '#46~16.04.1-Ubuntu SMP Thu May 3 10:06:43 UTC 2018', 'x86_64')
+ -------------------------------------------------------------
+  ipyrad [v.0.7.24]
+  Interactive assembly and analysis of RAD-seq data
+ -------------------------------------------------------------
+  Begin run: 2018-05-22 21:05
+  Using args {'preview': False, 'force': True, 'threads': 2, 'results': False, 'quiet': False, 'merge': None, 'ipcluster': None, 'cores': 0, 'params': 'params-oaksall_v1_2.txt', 'branch': None, 'steps': '67', 'debug': False, 'new': None, 'download': None, 'MPI': False}
+  Platform info: ('Linux', 'andrew-linux-desktop', '4.13.0-41-generic', '#46~16.04.1-Ubuntu SMP Thu May 3 10:06:43 UTC 2018', 'x86_64')

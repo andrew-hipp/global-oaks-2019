@@ -1,0 +1,13 @@
+Total clusters > depth 15: 49991
+Mean clusters per individual in final dataset: 0.06482 +/- 0.02478
+Aligned nucleotides in final dataset: 4352310
+Clusters in singletons tre 22432
+Aligned nucleotides in singletons dataset: 1969938
+
+Following lines are mean followed by sd over all individuals in study
+Raw reads: 1,685,023 +/- 1,103,843
+Reads passing filters: 1,682,786 +/- 1,103,264
+Total clusters per individual: 101,895 +/- 58,810
+Mean depth of clusters per individual per locus: 17.22 +/- 11.18
+Mean estimated heterozygosity: 0.01353 +/- 0.002702
+Mean estimated sequencing error: 0.002041 +/- 0.0004339
