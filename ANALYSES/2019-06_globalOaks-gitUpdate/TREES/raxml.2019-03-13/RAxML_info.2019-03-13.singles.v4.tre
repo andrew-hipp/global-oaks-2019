@@ -1,0 +1,44 @@
+
+
+WARNING: RAxML is not checking sequences for duplicate seqs and sites with missing data!
+
+
+
+This is RAxML version 8.2.4 released by Alexandros Stamatakis on October 02 2015.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+
+RAxML Bipartition Computation: Drawing support values from trees in file RAxML_rellBootstrap.oaksall_v1_2.m15.2019-03-13.singles-v4 onto tree in file RAxML_bestTree.oaksall_v1_2.m15.2019-03-13.singles-v4
+
+
+RAxML was called as follows:
+
+raxmlHPC-PTHREADS-AVX -f b -t RAxML_bestTree.oaksall_v1_2.m15.2019-03-13.singles-v4 -z RAxML_rellBootstrap.oaksall_v1_2.m15.2019-03-13.singles-v4 -m GTRCAT -n 2019-03-13.singles.v4.tre 
+
+
+
+
+Found 1 tree in File RAxML_bestTree.oaksall_v1_2.m15.2019-03-13.singles-v4
+
+
+
+Found 1000 trees in File RAxML_rellBootstrap.oaksall_v1_2.m15.2019-03-13.singles-v4
+
+
+
+Found 1 tree in File RAxML_bestTree.oaksall_v1_2.m15.2019-03-13.singles-v4
+
+
+
+Time for Computation of Bipartitions 0.191006
+Tree with bipartitions written to file:  /home/andrew/Dropbox/NSF-OAKS-1146488-core-files/Papers/2019-oaksOfTheWorld/RAD/ANALYSES/2019-03_globalOaks.v3/TREES/raxml.2019-03-13/RAxML_bipartitions.2019-03-13.singles.v4.tre
+Tree with bipartitions as branch labels written to file:  /home/andrew/Dropbox/NSF-OAKS-1146488-core-files/Papers/2019-oaksOfTheWorld/RAD/ANALYSES/2019-03_globalOaks.v3/TREES/raxml.2019-03-13/RAxML_bipartitionsBranchLabels.2019-03-13.singles.v4.tre
+Execution information file written to :  /home/andrew/Dropbox/NSF-OAKS-1146488-core-files/Papers/2019-oaksOfTheWorld/RAD/ANALYSES/2019-03_globalOaks.v3/TREES/raxml.2019-03-13/RAxML_info.2019-03-13.singles.v4.tre

@@ -1,0 +1,94 @@
+Command line: /usr/local/bin/bamm -c diversification_correlated-crown.txt
+Git commit id: ab1b69be13e9841d9e103170d0f61e4324f78676
+Random seed: 1552663199
+Start time: Fri Mar 15 10:19:59 2019
+
+Current parameter settings:
+       acceptanceInfoFileName    acceptance_info.txt
+          acceptanceResetFreq    2000
+            alwaysRecomputeE0    0
+                     autotune    0
+         branchRatesWriteFreq    0
+            chainSwapFileName    chain_swap.txt
+             checkUltrametric    1
+     combineExtinctionAtNodes    if_different
+          conditionOnSurvival    -1
+                       deltaT    0.01
+              eventDataInfile    event_data_in.txt
+             eventDataOutfile    event_data.txt
+           eventDataWriteFreq    1000
+       expectedNumberOfShifts    1.0
+            extinctionProbMax    0.9999
+fastSimulatePriorExperimental    0
+     fastSimulatePrior_BurnIn    0.05
+fastSimulatePrior_Generations    5000000
+ fastSimulatePrior_SampleFreq    50
+       globalSamplingFraction    0.6
+          initialNumberEvents    0
+              initializeModel    1
+                  lambdaInit0    0.032
+              lambdaInitPrior    2.31393374275928
+          lambdaInitRootPrior    -1.0
+    lambdaIsTimeVariablePrior    0
+                lambdaOutfile    lambda_rates.txt
+                 lambdaShift0    0
+             lambdaShiftPrior    0.0205587954731611
+         lambdaShiftRootPrior    -1.0
+                loadEventData    0
+         localGlobalMoveRatio    10.0
+              maxNumberEvents    5000
+                  mcmcOutfile    mcmc_out.txt
+                mcmcWriteFreq    1000
+         minCladeSizeForShift    5
+                    modeltype    speciationextinction
+                      muInit0    0.005
+                  muInitPrior    2.31393374275928
+              muInitRootPrior    -1.0
+                    muOutfile    mu_rates.txt
+                     muShift0    0.0
+                 muShiftPrior    1.0
+             muShiftRootPrior    -1.0
+            numberOccurrences    0
+               numberOfChains    4
+          numberOfGenerations    4000000
+              observationTime    -1
+                      outName    
+         outputAcceptanceInfo    0
+                    overwrite    0
+             poissonRatePrior    1
+         preservationRateInit    0
+        preservationRatePrior    1.0
+                    printFreq    100
+          priorOutputFileName    prior_probs.txt
+ priorSim_IntervalGenerations    5000
+              runInfoFilename    tr.singletons.correlated.1.taxaGrepCrown_info.txt
+                      runMCMC    1
+          sampleFromPriorOnly    0
+          sampleProbsFilename    sample_probs.txt
+                         seed    -1
+                    segLength    0.02
+          simulatePriorShifts    1
+                   swapPeriod    1000
+                     treefile    ../../OUT/ANALYSIS.PRODUCTS/tr.singletons.correlated.1.taxaGrepCrown.tre
+     updateEventLocationScale    0.05
+         updateEventRateScale    4.0
+        updateLambdaInitScale    2.0
+       updateLambdaShiftScale    0.1
+            updateMuInitScale    2.0
+           updateMuShiftScale    0.0
+  updatePreservationRateScale    1.0
+        updateRateEventNumber    0.1
+updateRateEventNumberForBranch    0.0
+      updateRateEventPosition    1
+          updateRateEventRate    1
+            updateRateLambda0    1
+        updateRateLambdaShift    1
+     updateRateLambdaTimeMode    0
+                updateRateMu0    1
+            updateRateMuShift    0.0
+   updateRatePreservationRate    -1
+ useGlobalSamplingProbability    1
+   validateEventConfiguration    0
+   writeMeanBranchLengthTrees    0
+End time: Fri Mar 15 10:40:02 2019
+
